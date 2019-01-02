@@ -4,4 +4,4 @@
 
 测试环境：
 parrot os 4.4 （其他debian系应该适用）
-python 2.7
+python 2.7（其他版本有可能不兼容）
